@@ -13,4 +13,4 @@ Detalha o valor de faturamento mensal de uma distribuidora por estado e
 calcula o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
 
 #### 6) Inversão de String
-Inverte os caracteres de uma string fornecida, seguindo as restrições de entrada e evitando o uso de funções prontas como "reverse".
+Inverte os caracteres de uma string fornecida.
