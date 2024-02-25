@@ -12,5 +12,5 @@ além de contar o número de dias em que o valor de faturamento diário foi supe
 Detalha o valor de faturamento mensal de uma distribuidora por estado e
 calcula o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
 
-#### 6) Inversão de String
+#### 5) Inversão de String
 Inverte os caracteres de uma string fornecida.
